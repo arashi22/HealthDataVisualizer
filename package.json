@@ -7,9 +7,13 @@
 		"test": "jest"
 	},
 	"dependencies": {
+		"keymirror": "^0.1.1",
+		"lodash": "^4.17.4",
+		"object-path-immutable": "^0.5.2",
 		"react": "16.0.0-beta.5",
 		"react-native": "0.49.3",
 		"react-navigation": "^1.0.0-beta.15",
+		"react-redux": "^5.0.6",
 		"redux": "^3.7.2",
 		"redux-saga": "^0.16.0"
 	},
